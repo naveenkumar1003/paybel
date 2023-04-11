@@ -1,0 +1,155 @@
+.b{
+    border-radius: 20px;
+    border:  2px solid blue;
+}
+.d{
+    background-color:blue;
+    height: 300px;
+    width: 3000px;
+    margin-bottom: 200px;}
+
+    
+.b2{
+    
+    height: 100px;
+    width: 400px;
+    border-radius: 50px;
+    
+}
+.d1{
+    background-color:blue;
+    height: 100px;
+    width: 2000px;}
+ 
+
+.b3{
+    border-radius: 20px;
+    margin-left: 900px;
+}  
+.b4{
+    border-radius: 20px;
+    margin-left: 600px;
+}   
+.P1{
+    font-weight: lighter;
+    font-size: small;
+}
+.b4{
+    
+    height: 100px;
+    width: 400px;
+    border-radius: 50px;
+    margin-left: 35%;
+    margin-top: 10px;}
+.d4{
+    margin-top:20%;
+}
+.d5{
+    margin-top:20%;
+}
+.b5{
+    
+    height: 100px;
+    width: 400px;
+    border-radius: 50px;
+    margin-left: 15%;
+    margin-top: 10px;
+
+}
+.d6{
+    margin-top:20%;
+}
+.d7{
+    margin-top:20%;
+}
+.h{
+    margin-top:10%;
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+} 
+.d8{
+    margin-top:3%;
+    margin-left: 35%;
+}
+.d9{
+    background-color: blue;
+    width:1900px;
+    height: 350px;
+    margin-right: 50PX;
+}
+.b6{
+    border-radius: 20px;
+    width: 200px;
+    
+}
+.div9{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 150px;
+}
+.div10{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 150px;
+}
+.div11{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 150px;
+}
+.div12{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 150px;
+}
+.div13{
+    background-color: white;
+    height: 100px;
+    width: 100px;
+    border-radius: 150px;
+}
+h2{
+    margin-left: 100px;
+}
+p{
+    margin-left: 100px;
+}
+ .b1{
+    margin-left: 30px;
+     padding: 10px; 
+    border-radius: 20px;
+    border: 2px solid blue;
+    color: white !important;
+} 
+
+.u{
+    list-style-type: none;
+   
+}
+ul li{
+    display: inline;
+    padding:10px;
+  
+}
+.v{
+    list-style-type: none;
+   
+}
+ul li{
+    display: inline;
+    padding:10px;
+  
+}
+.img1{
+  bottom: 100px;
+    
+}
+
+
+
+
+
